@@ -1,0 +1,18 @@
+.thumbnail-item-container {
+  margin-right: 13px;
+  margin-bottom: 8px;
+  cursor: pointer;
+}
+
+.thumbnail-img {
+  width: 62px;
+  height: 62px;
+  border-radius: 10px;
+}
+
+.thumbnail-btn {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
